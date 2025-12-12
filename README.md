@@ -6,14 +6,14 @@
 
 ##  Overview
 
-This project analyzes credit card transaction data to uncover **consumer spending patterns**, identify **high-value customer segments**, and understand **seasonal spending behaviour** that can support marketing and business strategy.
+This project analyzes credit card transaction data to uncover consumer spending patterns, identify high-value customer segments, and understand seasonal spending behaviour that can support marketing and business strategy.
 
 The analysis focuses on:
 
-* Differences in spending by **gender**
-* Spending distribution across major **cities in India**
-* Monthly spending trends to identify **high-impact marketing periods**
-* Insights related to **expense categories** (Bills, Fuel, Entertainment, Travel, etc.)
+* Differences in spending by gender
+* Spending distribution across major cities in India
+* Monthly spending trends to identify high-impact marketing periods
+* Insights related to expense categories (Bills, Fuel, Entertainment, Travel, etc.)
 
 ---
 
@@ -38,12 +38,12 @@ The analysis focuses on:
 
 ### Key Insights
 
-* **Females contribute more overall spending**, making them a high-value customer segment.
+* Females contribute more overall spending, making them a high-value customer segment.
 * Spending patterns differ notably:
 
-  * Females → Highest spending on **Bills**
-  * Males → Highest spending on **Fuel**
-* **Travel** is the lowest spending category for both genders, indicating limited discretionary or leisure spending during the period.
+  * Females → Highest spending on Bills
+  * Males → Highest spending on Fuel
+* Travel is the lowest spending category for both genders, indicating limited discretionary or leisure spending during the period.
 
 ---
 
@@ -61,9 +61,9 @@ The analysis focuses on:
 
 ### Key Insights
 
-* Highest spending occurs in major metro cities: **Mumbai, Bengaluru, Ahmedabad, and Delhi**.
-* **Bills** consistently dominate expenditure in the top 4 cities, showing that essential services are the biggest spending drivers.
-* **Kolkata** shows much lower total expenditure and prioritizes **Entertainment**, suggesting different lifestyle preferences.
+* Highest spending occurs in major metro cities: Mumbai, Bengaluru, Ahmedabad, and Delhi.
+* Bills consistently dominate expenditure in the top 4 cities, showing that essential services are the biggest spending drivers.
+* Kolkata shows much lower total expenditure and prioritizes Entertainment, suggesting different lifestyle preferences.
 
 ---
 
@@ -85,8 +85,8 @@ The analysis focuses on:
 
 ### Business Recommendations
 
-* **Increase marketing and promotional efforts in October** to maximise returns.
-* **Adopt retention-focused, essential promotions in July** rather than aggressive customer acquisition campaigns.
+* Increase marketing and promotional efforts in October to maximise returns.
+* Adopt retention-focused, essential promotions in July rather than aggressive customer acquisition campaigns.
 
 ---
 
